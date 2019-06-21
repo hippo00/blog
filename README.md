@@ -12,3 +12,4 @@
 | ------------- | ------------ |------------ |------------ |------------ |
 | <a  href="https://hippo00.github.io/vueblog/" target="_blank">我的博客</a>  | 冯燕飞 | 山西太原 |450033313@qq.com| feifei_4273 | 
 <center><font color=grey>(请向右滑动)</font></center>
+<center>这一行需要居中</center>
