@@ -8,13 +8,22 @@
 
 ![hippo](http://ww4.sinaimg.cn/large/006tNc79ly1g48rg8dthfj30u01454qp.jpg)
 
-| 个人主页 | 姓名 | 籍贯 | 邮箱 | 微信号 |  
+| 个人主页 | 姓名 | 籍贯 | 微信号 | 邮箱 | 
 | ------------- | ------------ |------------ |------------ |------------ |
-| <a  href="https://hippo00.github.io/vueblog/" target="_blank">我的博客</a>  | 冯燕飞 | 山西太原 |450033313@qq.com| feifei_4273 | 
+| <a href="https://hippo00.github.io/vueblog/" target="_blank">我的博客</a>  | 冯燕飞 | 山西太原 |feifei_4273|450033313@qq.com| 
 
 #### 个人经历
 
-+ 2018年6月毕业于天津理工大学（本科），计算机科学与技术专业
-+ 2018年7月就职于IBM中国开发中心
++ 2018年6月毕业于天津理工大学（本科），计算机科学与技术专业，荣获2018届“优秀毕业生”光荣称号！
++ 2018年7月就职于IBM中国开发中心（”China Development Labs“，简称CDL）,担任Teachnical Support Admin一职.
 + ......
 
+#### 掌握技能
+
++ Python
++ MySQL
++ Git
++ HTML、CSS、JS
++ Lnux
++ SQL
++ ......
