@@ -22,7 +22,7 @@
 #### 个人经历
 
 + 2018年6月毕业于天津理工大学（本科），计算机科学与技术专业，在校曾荣获新生一等奖学金，人民一二等奖学金，国家励志奖学金，2018届“优秀毕业生”称号等！
-+ 2018年7月就职于IBM中国开发中心（”China Development Labs“，简称CDL）,担任Teachnical Support Admin一职.
++ 2018年7月就职于IBM中国开发中心（”China Development Labs“，简称CDL）,担任Teachnical Support Admin一职，工作地点：北京.
 + ......
 
 #### 掌握技能
