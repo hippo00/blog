@@ -30,7 +30,7 @@ _________
   
   * GCG Innovation Factory
   
-  ![image](http://r.photo.store.qq.com/psb?/V12UAHdv42ysYg/cZ60MvPDRO4yptc348WLEYh1s5JbxLJKoOx8B7iQqfI!/r/dJ8AAAAAAAAA)
+  ![image](http://ww3.sinaimg.cn/large/006tNc79ly1g5os9pt4v3j31400u01ky.jpg)
   
 + ......
 
