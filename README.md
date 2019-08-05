@@ -24,6 +24,9 @@ _________
    * 国家励志奖学金
    * 2018届“优秀毕业生”
 + 2018年7月就职于IBM中国开发中心（”China Development Labs“，简称CDL）,担任Teachnical Support Admin一职，工作地点：北京.
+  * Manager’s Choice Award
+  [image](http://r.photo.store.qq.com/psb?/V12UAHdv42ysYg/PkMBQ0Bx.HU3eGa3KY4PHEfuLUk03tBb*eBg7tfhenU!/r/dFwAAAAAAAAA)
+  * GCG Innovation Factory
 + ......
 
 #### 掌握技能
