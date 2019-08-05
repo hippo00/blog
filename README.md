@@ -8,9 +8,13 @@
 
 ![hippo](http://ww4.sinaimg.cn/large/006tNc79ly1g48rg8dthfj30u01454qp.jpg)
 
-| 个人主页 | 姓名 | 籍贯 | 微信号 | 邮箱 | 领英 | 特长 | 兴趣爱好 | 
-| ------------- | ------------ |------------ |------------ |------------ |------------ |------------ |------------ |
-| <a href="https://hippo00.github.io/vueblog/" target="_blank">我的博客</a>  | 冯燕飞 | 山西太原 |feifei_4273|450033313@qq.com| https://www.linkedin.com/in/feng-yan-fei-829486169?trk=profile_share_wechat&from=singlemessage&isappinstalled=0 | 钻研新技术，攻克难题 | 爬山、旅游、跑步、摄影、看书、象棋等 |
+| 个人主页 | 姓名 | 籍贯 | 微信号 | 邮箱 | 特长 | 兴趣爱好 | 
+| ------------- | ------------ |------------ |------------ |------------ |------------ |------------ |
+| <a href="https://hippo00.github.io/vueblog/" target="_blank">我的博客</a>  | 冯燕飞 | 山西太原 |feifei_4273|450033313@qq.com | 钻研新技术，攻克难题 | 爬山、旅游、跑步、摄影、看书、象棋等 |
+
+##### Link
+* [领英](https://www.linkedin.com/in/feng-yan-fei-829486169?trk=profile_share_wechat&from=singlemessage&isappinstalled=0)
+* [知乎](http://www.zhihu.com/people/feng-yan-fei-24)
 
 #### 个人经历
 
