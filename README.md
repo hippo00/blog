@@ -13,8 +13,8 @@
 | <a href="https://hippo00.github.io/vueblog/" target="_blank">我的博客</a>  | 冯燕飞 | 山西太原 |feifei_4273|450033313@qq.com | 钻研新技术，攻克难题 | 爬山、旅游、跑步、摄影、看书、象棋等 |
 
 ##### Link
-* [领英](https://www.linkedin.com/in/feng-yan-fei-829486169?trk=profile_share_wechat&from=singlemessage&isappinstalled=0)
-* [知乎](http://www.zhihu.com/people/feng-yan-fei-24)
+* [我的领英](https://www.linkedin.com/in/feng-yan-fei-829486169?trk=profile_share_wechat&from=singlemessage&isappinstalled=0)
+* [我的知乎](http://www.zhihu.com/people/feng-yan-fei-24)
 _________
 #### 个人经历
 
@@ -23,7 +23,7 @@ _________
    * 人民一、二等奖学金若干次
    * 国家励志奖学金
    * 2018届“优秀毕业生”
-+ 2018年7月就职于IBM中国开发中心（”China Development Labs“，简称CDL）,担任Teachnical Support Admin一职，工作地点：北京.
++ 2018年7月就职于IBM中国开发中心（”China Development Labs“，简称CDL）,担任Teachnical Support Admin一职，工作地点：北京。收获奖项：
   * Manager’s Choice Award
   
   ![image](http://ww2.sinaimg.cn/large/006tNc79ly1g5os047lwuj30oe132dnh.jpg)
