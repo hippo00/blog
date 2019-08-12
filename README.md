@@ -44,9 +44,11 @@ _________
 + HTML、CSS、JS
 + Linux
 + SQL
++ Vue.js
++ Zenhub
 + ......
 
 #### 志愿服务(Volunteer Service)
 
-* May 21,2019 IBM thint summit 特约记者团
+* 2019 IBM think summit 特约记者团
 * ......
