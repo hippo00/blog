@@ -4,7 +4,7 @@
 ```
 2019年6月14日
 ```
-#### 关于我
+#### 关于我(About Me)
 
 ![hippo](http://ww4.sinaimg.cn/large/006tNc79ly1g48rg8dthfj30u01454qp.jpg)
 
@@ -12,11 +12,11 @@
 | ------------- | ------------ |------------ |------------ |------------ |------------ |------------ |
 | <a href="https://hippo00.github.io/vueblog/" target="_blank">我的博客</a>  | 冯燕飞 | 山西太原 |feifei_4273|450033313@qq.com | 钻研新技术，攻克难题 | 爬山、旅游、跑步、摄影、看书、象棋等 |
 
-##### Link
-* [我的领英](https://www.linkedin.com/in/feng-yan-fei-829486169?trk=profile_share_wechat&from=singlemessage&isappinstalled=0)
-* [我的知乎](http://www.zhihu.com/people/feng-yan-fei-24)
+##### Links
+* [我的领英(linkedin)](https://www.linkedin.com/in/feng-yan-fei-829486169?trk=profile_share_wechat&from=singlemessage&isappinstalled=0)
+* [我的知乎(ZhiHu)](http://www.zhihu.com/people/feng-yan-fei-24)
 _________
-#### 个人经历
+#### 个人经历(Education & Working Experiences)
 
 + 2018年6月毕业于天津理工大学（本科），计算机科学与技术专业。在校曾荣获：
    * 新生一等奖学金
@@ -34,7 +34,7 @@ _________
   
 + ......
 
-#### 掌握技能
+#### 掌握技能(Technical Skills)
 
 + Python
 + MySQL
@@ -43,3 +43,7 @@ _________
 + Linux
 + SQL
 + ......
+
+#### 志愿服务
+
+* May 21,2019 IBM Thint Summit志愿服务，参与角色：特约记者团
