@@ -8,7 +8,7 @@
 
 ![hippo](http://ww4.sinaimg.cn/large/006tNc79ly1g48rg8dthfj30u01454qp.jpg)
 
-| 个人主页 | 姓名 | 籍贯 | 微信号 | email | 兴趣爱好 | 
+| home | 姓名 | 籍贯 | wechat | email | 兴趣爱好 | 
 | ------------- | ------------ |------------ |------------ |------------ |------------ |
 | <a href="https://hippo00.github.io/vueblog/" target="_blank">我的博客</a>  | 冯燕飞 | 山西太原 |feifei_4273| <a href=mailto:450033313@qq.com>450033313@qq.com</a> | 爬山、旅游、跑步、摄影、看书、象棋等 |
 
@@ -24,7 +24,7 @@ _________
    * 新生一等奖学金
    * 人民一、二等奖学金若干次
    * 国家励志奖学金
-   * 2018届“优秀毕业生”
+   * 2018届优秀毕业生
 + 2018年7月就职于IBM中国开发中心（”China Development Labs“，简称CDL）,担任Teachnical Support Admin一职，base：北京。Awards：
   * Manager’s Choice Award
   
@@ -48,5 +48,5 @@ _________
 
 #### 志愿服务(Volunteer Service)
 
-* May 21,2019 IBM Thint Summit 特约记者团
+* May 21,2019 IBM thint summit 特约记者团
 * ......
