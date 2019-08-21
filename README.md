@@ -27,7 +27,7 @@ _________
    * 2018届优秀毕业生
 + 2018年7月就职于IBM中国开发中心（”China Development Labs“，简称CDL）,担任Teachnical Support Admin一职，base：北京。Awards：
   * Manager’s Choice Award
-  * GCG Innovation Factory
+  * GCG Innovation Factory Top Team Award
   
   ![image](http://ww2.sinaimg.cn/large/006tNc79ly1g5os047lwuj30oe132dnh.jpg)
   ![image](http://ww3.sinaimg.cn/large/006tNc79ly1g5os9pt4v3j31400u01ky.jpg)
