@@ -30,7 +30,7 @@ _________
   * GCG Innovation Factory Top Team Award
   
   ![image](http://ww2.sinaimg.cn/large/006tNc79ly1g5os047lwuj30oe132dnh.jpg)
-  ![image](http://ww3.sinaimg.cn/large/006tNc79ly1g5os9pt4v3j31400u01ky.jpg)
+  ![image](http://ww1.sinaimg.cn/large/006y8mN6ly1g687jce9lhj31400u0npd.jpg)
   
 + ......
 
