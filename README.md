@@ -50,3 +50,7 @@ _________
 
 * 2019 IBM think summit 特约记者团
 * ......
+
+#### 个人成就
+
+<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="b9fdc730-b467-40e1-8e9d-acc49663e1d1"></div><script type="text/javascript" async src="//cdn.youracclaim.com/assets/utilities/embed.js"></script>
