@@ -43,8 +43,10 @@ _________
 + Linux
 + SQL
 + Vue.js
++ Github
 + Zenhub
-+ PowerShell
++ Shell
++ OpenShift
 + ......
 
 #### Badges
@@ -52,7 +54,7 @@ _________
 
 #### 志愿服务(Volunteer Service)
 
-* 2019 IBM think summit 特约记者团
 * 长期致力于助残公益活动
+* 2019 IBM think summit 特约记者团
 * ......
 
