@@ -53,7 +53,7 @@ _________
 
 <table border="1px solid #ccc" cellspacing="0" cellpadding="0">
   <tr font-weight: 700; >
-    <td width="15%" style="text-align:center;";> </td>
+    <td width="15%" style="text-align:center;";><div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="7f572760-c0f3-4e99-b360-513197c90881"></div><script type="text/javascript" async src="//cdn.youracclaim.com/assets/utilities/embed.js"></script> </td>
     <td style="text-align:center">Business Process Manager</td>
     <td style="text-align:center">Business Automation Workflow</td>
   </tr>
