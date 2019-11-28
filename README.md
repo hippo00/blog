@@ -29,8 +29,8 @@ _________
   * Manager’s Choice Award
   * GCG Innovation Factory Top Team Award
   
-  ![image](http://ww2.sinaimg.cn/large/006tNc79ly1g5os047lwuj30oe132dnh.jpg)
-  ![image](http://ww1.sinaimg.cn/large/006y8mN6ly1g687jce9lhj31400u0npd.jpg)
+  <img src="http://ww2.sinaimg.cn/large/006tNc79ly1g5os047lwuj30oe132dnh.jpg" height="300" width="220" />
+  <img src="http://ww1.sinaimg.cn/large/006y8mN6ly1g687jce9lhj31400u0npd.jpg" height="420" width="620" />
   
 + ......
 
