@@ -6,7 +6,7 @@
 ```
 #### 关于我(About Me)
 
-![hippo](http://ww4.sinaimg.cn/large/006tNc79ly1g48rg8dthfj30u01454qp.jpg)
+<img src="http://ww4.sinaimg.cn/large/006tNc79ly1g48rg8dthfj30u01454qp.jpg" height="300" width="220" />
 
 | home | 姓名 | 籍贯 | wechat | email | 兴趣爱好 | 
 | ------------- | ------------ |------------ |------------ |------------ |------------ |
