@@ -59,8 +59,8 @@ _________
   </tr>
   <tr>
     <td style="background-color:white;text-align:center" ><a href="https://www.youracclaim.com/badges/5f910bfd-3d37-40a8-8b71-581df744fc8a/linked_in_profile" target="_blank"><img align="middle" src="https://tva1.sinaimg.cn/large/006y8mN6ly1g9dmyq22zwj303h03h74n.jpg" /></a><br/>IBM Cloud Private Infrastructure and Architecture</td>
-    <td><center><a href="" target="_blank"><img align="middle" src="" /><br/>IBM Watson Assistant Foundations</a><center></td>
-    <td><a href="" target="_blank"><img align="middle" src="" /></a><br/></td>
+    <td><center><a href="https://www.youracclaim.com/badges/7e8ecc1d-5a69-4790-9269-034310cd4dfe/linked_in_profile" target="_blank"><img align="middle" src="https://tva1.sinaimg.cn/large/006y8mN6ly1g9dn31gm85j303h03hmxh.jpg" /></a><br/>IBM Cloud Private - Continuous Integration/Continuous Delivery Pipelines<center></td>
+    <td><a href="https://www.youracclaim.com/badges/d74cb6e5-41e0-4c33-97f2-2b7cdc553582/linked_in_profile" target="_blank"><img align="middle" src="https://tva1.sinaimg.cn/large/006y8mN6ly1g9dn4kldeaj303h03hgm1.jpg" /></a><br/>IBM Cloud Essentials</td>
   </tr>
   <tr>
     <td style="background-color:white; text-align:center"><a href="" target="_blank"><img align="middle" src="" /></a><br/></td>
