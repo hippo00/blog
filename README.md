@@ -72,6 +72,11 @@ _________
   <tr>
     <td style="background-color:white"><center><a href="https://www.youracclaim.com/badges/734d86d3-c6de-47f1-a66d-58bb8672d1f0/linked_in_profile" target="_blank"><img align="middle" src="https://tva1.sinaimg.cn/large/006y8mN6ly1g9dnl2gfvej304s04smxs.jpg" /><br/></a>Python for Data Science<center></td>
     <td style="background-color:white"><center><a href="https://www.youracclaim.com/badges/b9fdc730-b467-40e1-8e9d-acc49663e1d1/linked_in_profile" target="_blank"><img align="middle" src="https://tva1.sinaimg.cn/large/006y8mN6ly1g9dni4kf8sj304u04u0ta.jpg" /><br/></a>Innovation Factory Technical Expert<center></td>
+      <td style="background-color:white"><center><a href="https://www.youracclaim.com/badges/ce2aa2b7-7e57-4c28-8567-1c02727fb48b/linked_in_profile" target="_blank"><img align="middle" src="https://tva1.sinaimg.cn/large/006tNbRwly1g9ibxcnffgj304u04ut9e.jpg" /><br/></a>Digital Developer Conference: Cloud Native Track<center></td>
+  </tr> 
+    <tr>
+    <td style="background-color:white"><center><a href="https://www.youracclaim.com/badges/0b7c5f04-674b-445a-9516-f7b7bb829c0b/linked_in_profile" target="_blank"><img align="middle" src="https://tva1.sinaimg.cn/large/006tNbRwly1g9ibzduw1aj304u04ut9g.jpg" /><br/></a>Digital Developer Conference: Machine Learning Track<center></td>
+    <td style="background-color:white"><center><a href="" target="_blank"><img align="middle" src="" /><br/></a><center></td>
       <td style="background-color:white"><center><a href="" target="_blank"><img align="middle" src="" /><br/></a><center></td>
   </tr>
 </table>
