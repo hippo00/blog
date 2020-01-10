@@ -55,7 +55,7 @@ _________
 
 <table border="1px solid #ccc" cellspacing="0" cellpadding="0">
   <tr>
-    <td style="text-align:center;"><a href="https://www.youracclaim.com/badges/7f572760-c0f3-4e99-b360-513197c90881/linked_in_profile" target="_blank"><img align="middle" src="https://tva1.sinaimg.cn/large/006y8mN6ly1g9dmdufl5qj303h03hjrq.jpg" /></a><br/>Watson Assistant Foundations</td>
+    <td style="text-align:center;"><a href="https://www.youracclaim.com/badges/7f572760-c0f3-4e99-b360-513197c90881/linked_in_profile" title="点击验证" target="_blank"><img align="middle" src="https://tva1.sinaimg.cn/large/006y8mN6ly1g9dmdufl5qj303h03hjrq.jpg" /></a><br/>Watson Assistant Foundations</td>
     <td style="text-align:center"><a href="https://www.youracclaim.com/badges/990f6c2f-ee01-4fd0-a116-f197f58553d7/linked_in_profile" target="_blank"><img align="middle" src="https://tva1.sinaimg.cn/large/006y8mN6ly1g9dmmp18hsj303h03h0sz.jpg" /></a><br/>Cognitive Practitioner</td>
     <td style="text-align:center"><a href="https://www.youracclaim.com/badges/4193a0a2-58be-4736-8105-2a81b5dbeab7/linked_in_profile" target="_blank"><img align="middle" src="https://tva1.sinaimg.cn/large/006y8mN6ly1g9dmqahf2qj303h03hjrq.jpg" /></a><br/>IBM Cloud Private - Foundation Technology</td>
   </tr>
