@@ -76,8 +76,8 @@ _________
   </tr> 
     <tr>
     <td style="background-color:white"><center><a href="https://www.youracclaim.com/badges/0b7c5f04-674b-445a-9516-f7b7bb829c0b/linked_in_profile" title="点击验证" target="_blank"><img align="middle" src="https://tva1.sinaimg.cn/large/006tNbRwly1g9ibzduw1aj304u04ut9g.jpg" /><br/></a>Digital Developer Conference: Machine Learning Track<center></td>
-    <td style="background-color:white"><center><a href="" target="_blank"><img align="middle" title="点击验证" src="" /><br/></a><center></td>
-      <td style="background-color:white"><center><a href="" target="_blank"><img align="middle" title="点击验证" src="" /><br/></a><center></td>
+    <td style="background-color:white"><center><a href="" target="_blank"><img align="middle" src="" /><br/></a><center></td>
+      <td style="background-color:white"><center><a href="" target="_blank"><img align="middle" src="" /><br/></a><center></td>
   </tr>
 </table>
 
